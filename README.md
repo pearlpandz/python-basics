@@ -8,5 +8,3 @@ Download it and keep practising...
 - Pythons basics
 - Pandas 
 - NumPy
-
-*Note:* This Repo is under updating, If you want anything in Python related things, Please mention in comment box.
